@@ -2,18 +2,14 @@
 
 ======================Presented by SEA group======================
 
-This mod applies on the Roma Kobayashi skin which costs 7000 doublons. It removes something strange on the top of the vessel.
+Skin modification for tier 8 battleship **Roma**. This mod applies on the Roma Kobayashi skin which costs 7000 doublons. It removes the water heater on the top of the vessel.
 
+Presented by SEA group
 
-Installation: 
+## Installation
+* **For WGC users**, copy `content` into `[WoWS folder]/bin/[largest number]/res_mods/`
+* **For Steam users**, copy `content` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/`
 
-Copy "content" into /res_mods/a.b.c.d(current version)/
-
-
-
-此mod用于移除罗马小林涂装顶部的大型热水器。
-
-安装：
-把content放到
-游戏安装目录/res_mods/版本号/ 
-里面即可
+## 使用方法
+* **WG游戏中心用户**请把`content`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/`里面
+* **Steam客户端用户**请把`content`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面
