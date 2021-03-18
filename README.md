@@ -1,7 +1,5 @@
 ﻿# Water heater remover for Kobayashi's Roma skin
 
-======================Presented by SEA group======================
-
 Skin modification for tier 8 battleship **Roma**. This mod applies on the Roma Kobayashi skin which costs 7000 doublons. It removes the water heater on the top of the vessel.
 
 Presented by SEA group
